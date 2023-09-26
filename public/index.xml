@@ -39,6 +39,7 @@
       <guid>https://example.com/post/hi-hugo/</guid>
       <description>&lt;p&gt;К этому Приветствию мы бы и добавили бы кучу букв, да, где их взято&amp;hellip; Кучу?&lt;br&gt;
 И это &amp;ndash; не Кот!&lt;/p&gt;
+&lt;p&gt;17-45&lt;/p&gt;
 &lt;p&gt;Приходится довольстватьте тем, что есть&lt;/p&gt;
 &lt;hr&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Orange&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
@@ -292,7 +293,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-461795328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-579143628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -302,7 +303,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-461795328&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-579143628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
