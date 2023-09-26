@@ -1,0 +1,40 @@
+---
+title: Hi Hugo
+author: ''
+date: '2023-09-26'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-09-26T15:44:35+03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---  
+
+В этом приветствиее мы добавил кучу букв, хотя... Где их взято... Кучу?  
+Приходится довольстватьте тем, что есть  
+
+--------------
+
+```{r}
+summary(Orange)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
+
