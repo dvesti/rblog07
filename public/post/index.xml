@@ -22,6 +22,7 @@
 &lt;p&gt;17-45&lt;/p&gt;
 &lt;p&gt;05-10 19:02&lt;/p&gt;
 &lt;p&gt;Приходится довольстватьте тем, что есть&lt;/p&gt;
+&lt;p&gt;Добавлено: из дома 01:49 &amp;ndash; 19-10-2023&lt;/p&gt;
 &lt;hr&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Orange&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;##  Tree       age         circumference  
@@ -265,7 +266,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-324859176&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-491258763&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +276,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-324859176&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-491258763&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
