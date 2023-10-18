@@ -144,7 +144,7 @@ Customize the slide style and background
 ---
 
 ## Custom CSS Example
-
+<!--
 Let's make headers navy colored.
 
 Create `assets/css/reveal_custom.css` with:
@@ -158,7 +158,7 @@ Create `assets/css/reveal_custom.css` with:
 ```
 
 ---
-
+-->
 # Questions?
 
 [Ask](https://discord.gg/z8wNYzb)
