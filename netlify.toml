@@ -1,4 +1,4 @@
-тт[build]
+[build]
 command = 'hugo'
 publish = 'public'
 
