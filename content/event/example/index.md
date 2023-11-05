@@ -31,11 +31,11 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Example Talk-test
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: ""  
 ---
 
 {{% callout note %}}

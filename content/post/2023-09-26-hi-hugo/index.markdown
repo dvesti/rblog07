@@ -28,6 +28,8 @@ projects: []
 
 Добавлено: из дома 01:49 -- 19-10-2023  
 
+Добавлено из Дома 00-04 -- 06-11-2023  
+
 --------------
 
 
@@ -45,6 +47,10 @@ summary(Orange)
 ##        Max.   :1582.0   Max.   :214.0
 ```
 
+
+```
+## Warning: пакет 'ggplot2' был собран под R версии 4.3.2
+```
 
 ```
 ## Warning: The `<scale>` argument of `guides()` cannot be `FALSE`. Use "none" instead as
