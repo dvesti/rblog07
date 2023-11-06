@@ -1,0 +1,24 @@
+---
+title: Проверка
+author: Vladimir Dmitrijev
+date: '2023-11-06'
+slug: tri-sapoga
+categories:
+  - R
+tags:
+  - Demo
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-11-06T12:43:49+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Это новое сообщение  
+06-11 -- 12-45  
+
