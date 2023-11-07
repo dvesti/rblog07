@@ -1,7 +1,7 @@
 ---
 title: Hi Hugo
 author: ''
-date: '2023-09-26'
+date: '2023-09-26 12:12:12 +0200'
 slug: hi-hugo
 categories: []
 tags: []
