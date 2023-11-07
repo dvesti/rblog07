@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: rblog07.netlify.app/sitemap.xml
