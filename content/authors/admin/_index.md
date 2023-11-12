@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Мои исследовании  парапсихологии выбвинули на соискание первой премии нашей псих-больницы
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Это курсы
+    institution: Институт 3+2
+    year: 2024
+  - course: Слесарь-Окушер 5-го разряда
+    institution: Менессотский Технологический Институт
+    year: 2022
+  - course: Курс биополярочки
+    institution: ПсихБольница БорисоГлебска
+    year: недавно
 email: ""
-first_name: Alice
+first_name: RBlog07
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Первый интерес
+- Второй интерес
+- Бубновый интерес
+last_name: Великий
 organizations:
-- name: Stanford University
+- name: Школа-Студия МХАТ
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: НеПрофессор пока
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,5 +51,5 @@ superuser: true
 title: Alice Wu 吳恩達
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Здесь будет Биография. Или не будет.
 {style="text-align: justify;"}
