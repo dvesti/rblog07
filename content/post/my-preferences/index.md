@@ -1,7 +1,7 @@
 ---
 title: Мои предпочтения
 author: Rblog07
-date: '2023-11-15'
+date: '2023-11-15 12:12:12+02:00'
 slug: my-preferences
 categories:
   - Blog
