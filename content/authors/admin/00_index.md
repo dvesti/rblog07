@@ -13,26 +13,20 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
-highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Wu
 organizations:
 - name: Stanford University
-  url: https://www.stanford.edu/
+  url: ""
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+  link: '#contact'
+- icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
@@ -40,17 +34,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
-status:
-  icon: ☕️
-superuser: true
-title: Alice Wu 吳恩達
+superuser: false
+title: Vu Enda
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Vu Enda is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
